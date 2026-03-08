@@ -29,6 +29,119 @@
       <link>https://xixilynliu.github.io/duck-podcast</link>
     </image>
 
+    <!-- EP10：为什么中国AI应用比美国好 -->
+    <item>
+      <title>EP10 | 为什么中国 AI 应用比美国好</title>
+      <itunes:title>为什么中国 AI 应用比美国好</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>中国 AI 落后美国？在模型层是的，在应用层恰恰相反。</itunes:subtitle>
+      <itunes:summary>所有人都在说"中国AI落后美国"，但如果只看应用层，中国在很多维度上其实领先。这不是盲目自信，而是结构性优势。这一期从场景丰富度、支付数据闭环、用户容忍度、工程化能力、竞争效率五个维度拆解中国AI应用的领先逻辑。最后一个反直觉观点：中国AI的真正风险不是技术落后，是"太会做应用"。</itunes:summary>
+      <description>中国 AI 落后美国？在模型层，是的。在应用层，恰恰相反。
+
+这一期从五个维度拆解中国 AI 应用的结构性优势：场景丰富度、支付数据闭环、用户容忍度、工程化能力、卷出来的效率。每个维度配了中美对比的具体场景。
+
+同时诚实面对短板：基础创新不足、出海障碍、生态碎片化、人才流失。
+
+最后一个反直觉观点：中国 AI 的真正风险不是技术落后，是"太会做应用"导致基础研究投入不足。</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/10_%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BDAI%E5%BA%94%E7%94%A8%E6%AF%94%E7%BE%8E%E5%9B%BD%E5%A5%BD.mp3" length="5314032" type="audio/mpeg"/>
+      <itunes:duration>00:14:46</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep10</guid>
+      <pubDate>Wed, 11 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP09：AI时代产品经理会消失吗 -->
+    <item>
+      <title>EP09 | AI 时代，产品经理会消失吗</title>
+      <itunes:title>AI 时代，产品经理会消失吗</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>2026 年最危险的岗位不是程序员，是产品经理。但最有价值的岗位，也是产品经理。</itunes:subtitle>
+      <itunes:summary>AI 能写代码、能做设计、能分析数据，那产品经理还有什么用？这一期拆解了会消失的三类PM（功能翻译机、数据搬运工、流程管理）和不会消失的三类PM（行业深度、AI产品、用户洞察），每类配了一个具体人物的故事。最后一个判断：AI时代最好的PM，是那些"不像PM"的人。</itunes:summary>
+      <description>2026 年最危险的岗位不是程序员，是产品经理。但最有价值的岗位，也是产品经理。
+
+AI 吃掉了 PM 70%-80% 的日常工作：需求文档、竞品分析、数据看板、原型设计。那 PM 还剩什么？
+
+这一期拆解了会消失的三类 PM 和不会消失的三类 PM，每类配了具体的人物场景。
+
+最后一个判断：未来的 PM 不是做产品的人，是定义产品的人。</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/09_AI%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%BC%9A%E6%B6%88%E5%A4%B1%E5%90%97.mp3" length="5318640" type="audio/mpeg"/>
+      <itunes:duration>00:14:46</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep09</guid>
+      <pubDate>Tue, 10 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP08：大模型降价之后谁在裸泳 -->
+    <item>
+      <title>EP08 | 大模型降价之后，谁在裸泳</title>
+      <itunes:title>大模型降价之后，谁在裸泳</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>大模型降价是好事？对大部分 AI 公司来说，这是一封死亡通知书。</itunes:subtitle>
+      <itunes:summary>GPT-4 级能力的 API 成本降到了一年前的 1/100。这对整个 AI 生态意味着什么？这一期分析了五类"裸泳者"（模型中间商、API聚合平台、模型差异化公司、高价AI培训、算力二道贩子）和三类"受益者"（应用层公司、数据壁垒公司、AI原生工作流公司）。最后一个判断：大模型降价的终局不是 AI 更好用，而是 AI 变成水电煤。</itunes:summary>
+      <description>大模型降价是好事？对大部分 AI 公司来说，这是一封死亡通知书。
+
+GPT-4 级能力的 API 成本两年降了 99%。这一期分析了五类裸泳者和三类受益者，每类配了具体的公司和个人故事。
+
+最后一个反直觉判断：大模型降价的真正终局是——AI 变得无聊了。</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/08_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%99%8D%E4%BB%B7%E4%B9%8B%E5%90%8E%E8%B0%81%E5%9C%A8%E8%A3%B8%E6%B3%B3.mp3" length="4530384" type="audio/mpeg"/>
+      <itunes:duration>00:12:35</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep08</guid>
+      <pubDate>Mon, 09 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP07：AI创业的五种死法 -->
+    <item>
+      <title>EP07 | AI 创业的五种死法</title>
+      <itunes:title>AI 创业的五种死法</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>2026 年 AI 创业最危险的不是没钱，是钱太好拿了。</itunes:subtitle>
+      <itunes:summary>2025年拿到天使轮的AI创业公司，到今天还活着的不到15%。这一期拆解了五种具体的、有画面感的死法：API套壳死、Demo驱动死、技术信仰死、烧钱换量死、大厂阴影死。每种配了一个真实感的创业团队故事。最后给出了"反而能活"的AI创业特征。</itunes:summary>
+      <description>2026 年 AI 创业最危险的不是没钱，是钱太好拿了。
+
+2025 年拿到天使轮的 AI 创业公司，到今天还活着的不到 15%。
+
+这一期拆解了五种死法：API 套壳死、Demo 驱动死、技术信仰死、烧钱换量死、大厂阴影死。每种配了一个创业团队的完整故事。
+
+最后一个反直觉观察：活下来的 AI 公司通常不酷、创始人不是纯技术背景、从第一天就在收钱。</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/07_AI%E5%88%9B%E4%B8%9A%E7%9A%84%E4%BA%94%E7%A7%8D%E6%AD%BB%E6%B3%95.mp3" length="4954608" type="audio/mpeg"/>
+      <itunes:duration>00:13:46</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep07</guid>
+      <pubDate>Sun, 08 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP06：你的AI产品为什么没人用 -->
+    <item>
+      <title>EP06 | 你的 AI 产品为什么没人用</title>
+      <itunes:title>你的 AI 产品为什么没人用</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>AI 产品最大的谎言不是"不好用"，是"太好用了但没人用"。</itunes:subtitle>
+      <itunes:summary>2025年全球新上线AI应用超过14万个，30天留存率中位数只有3%-5%。为什么那么多AI产品demo惊艳但留存为零？这一期拆了四个坑（demo思维、把AI当卖点、忽视迁移成本、高估容错空间）和五个方向（嵌入已有工作流、帮用户积累资产、把确定性做到极致、为最小决策服务、做网络节点而非个体工具）。</itunes:summary>
+      <description>2025 年全球新上线 AI 应用超过 14 万个，30 天留存率中位数只有 3%-5%。
+
+为什么那么多 AI 产品让人惊呼"太牛了"，但用了一次就再也不打开？
+
+这一期拆了四个常见的坑和五个有留存的产品方向，每个方向配了具体的用户场景。
+
+最后一个观点：用户不会因为你很厉害而留下来，用户只会因为离不开而留下来。</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/06_%E4%BD%A0%E7%9A%84AI%E4%BA%A7%E5%93%81%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E4%BA%BA%E7%94%A8.mp3" length="5000544" type="audio/mpeg"/>
+      <itunes:duration>00:13:53</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep06</guid>
+      <pubDate>Sat, 07 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
     <!-- EP04 先发：最有传播力 -->
     <item>
       <title>EP04 | AI 爆火的 2026 年，反直觉的 10 件事（暴论版）</title>
