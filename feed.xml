@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>达克聊产品</title>
+    <link>https://xixilynliu.github.io/duck-podcast</link>
+    <atom:link href="https://xixilynliu.github.io/duck-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>不聊概念，只聊真相。一个产品人的 AI 时代观察。
+
+我是达克，一个在 AI 时代做产品的人。这个播客聊三件事：AI 到底能干什么、不能干什么、以及大多数人搞错了什么。不贩卖焦虑，不吹技术神话。每一期只讲一个问题，每一个观点都配一个具体的人和故事。每周更新，欢迎来吵架。</description>
+    <itunes:summary>不聊概念，只聊真相。一个产品人的 AI 时代观察。每一期只讲一个问题，每一个观点都配一个具体的人和故事。</itunes:summary>
+    <itunes:author>达克</itunes:author>
+    <itunes:owner>
+      <itunes:name>达克</itunes:name>
+      <itunes:email>podcast@duck.fm</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://xixilynliu.github.io/duck-podcast/cover.jpg"/>
+    <image>
+      <url>https://xixilynliu.github.io/duck-podcast/cover.jpg</url>
+      <title>达克聊产品</title>
+      <link>https://xixilynliu.github.io/duck-podcast</link>
+    </image>
+
+    <!-- EP04 先发：最有传播力 -->
+    <item>
+      <title>EP04 | AI 爆火的 2026 年，反直觉的 10 件事（暴论版）</title>
+      <itunes:title>AI 爆火的 2026 年，反直觉的 10 件事</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>关于 AI 最流行的观点，几乎全是错的。10 件让人不舒服的事。</itunes:subtitle>
+      <itunes:summary>关于 AI 最流行的观点，几乎全是错的。这一期说了 10 件让人不舒服的事：AI 让你变脆了、初级岗位正在消亡、企业 AI 战略是表演、AI 伦理是富人的消遣、你的技能在通胀、世界在断裂而不是变平、AI 最大的产品是孤独、"不累"比"聪明"值钱、Scaling Law 在撞墙、你的 AI 焦虑被操控了。每一件都配了一个具体的人的故事。注意：本期含大量暴论，请系好安全带。</itunes:summary>
+      <description>关于 AI 最流行的观点，几乎全是错的。
+
+这一期说了 10 件让人不舒服的事：AI 让你变脆了、初级岗位正在消亡、企业 AI 战略是表演、AI 伦理是富人的消遣、你的技能在通胀、世界在断裂而不是变平、AI 最大的产品是孤独、"不累"比"聪明"值钱、Scaling Law 在撞墙、你的 AI 焦虑被操控了。
+
+每一件都配了一个具体的人的故事。如果你听完觉得不舒服——那就对了。
+
+注意：本期含大量暴论，请系好安全带。
+
+【时间戳】
+00:00 开场：最流行的观点几乎全是错的
+00:40 第1件：AI 让你变"脆"了
+01:50 第2件：初级岗位正在消亡
+03:00 第3件：企业 AI 战略是表演
+04:00 第4件：AI 伦理是富人的消遣
+05:10 第5件：能力通胀
+06:10 第6件：世界在断裂不是变平
+07:20 第7件：最大的 AI 产品是孤独
+08:40 第8件："体力"比"智力"值钱
+09:40 第9件：Scaling Law 在撞墙
+10:30 第10件：你的 AI 焦虑被操控了
+11:30 总结</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/04_AI%E7%88%86%E7%81%AB2026%E5%B9%B4%E5%8F%8D%E7%9B%B4%E8%A7%8910%E4%BB%B6%E4%BA%8B.mp3" length="4369824" type="audio/mpeg"/>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep04</guid>
+      <pubDate>Wed, 05 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP05 第二发：职场话题，引发讨论 -->
+    <item>
+      <title>EP05 | 公司里，谁是 AI 的绊脚石</title>
+      <itunes:title>公司里，谁是 AI 的绊脚石</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>92% 企业宣称在做 AI 转型，14% 产生了可量化的业务价值。中间那 78% 去哪了？</itunes:subtitle>
+      <itunes:summary>92% 的中国企业宣称在做 AI 转型，14% 产生了可量化的业务价值。中间那 78% 去哪了？被绊脚石挡住了。这一期点名了六种人：短视频老板、保护领地的 CTO、PPT 战略家、AI 恐惧中层、AI 戏精、等等党采购。他们都"支持 AI"，但比任何反对者都更有效地阻碍了 AI 落地。</itunes:summary>
+      <description>92% 的中国企业宣称在做 AI 转型，14% 产生了可量化的业务价值。中间那 78% 去哪了？
+
+被绊脚石挡住了。
+
+这一期点名了六种人：看了 500 条 AI 视频但从没用过 ChatGPT 的"短视频老板"、以安全之名行封杀之实的 CTO、做了 150 页 PPT 但没有一个原型的战略家、用软刀子拖慢项目的恐惧中层、表演用 AI 的戏精、以及永远在"再等等"的采购决策者。
+
+最后给了一套五步"排雷检查清单"。
+
+【时间戳】
+00:00 开场：AI 最大的敌人不是反对者
+00:50 数据：92% 在做，14% 做成了
+01:40 第一种：短视频老板
+03:10 第二种：保护领地的 CTO
+04:30 第三种：PPT 战略家
+05:50 第四种：AI 恐惧中层
+07:20 第五种：AI 戏精
+08:30 第六种：等等党采购
+09:40 公道话：绊脚石也有他们的道理
+10:20 五步排雷检查清单
+11:10 反直觉收尾</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/05_%E5%85%AC%E5%8F%B8%E9%87%8C%E8%B0%81%E6%98%AFAI%E7%9A%84%E7%BB%8A%E8%84%9A%E7%9F%B3.mp3" length="4299984" type="audio/mpeg"/>
+      <itunes:duration>00:11:56</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep05</guid>
+      <pubDate>Tue, 04 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP01 第三发：干货框架 -->
+    <item>
+      <title>EP01 | AI 产品的小切口——别再做下一个 ChatGPT 了</title>
+      <itunes:title>AI 产品的小切口</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>模型能力溢出了，产品机会在应用层，在那些"脏活累活"里。</itunes:subtitle>
+      <itunes:summary>模型能力已经溢出了，产品机会到底在哪？这一期聊了 6 个具体方向，每个方向配了真实的用户场景——从租房合同到火锅连锁店，从外贸询盘到播客后期。最后给了一个"五问检验法"帮你判断一个 AI 产品切口值不值得做。适合正在找方向的产品人和创业者。</itunes:summary>
+      <description>模型能力已经溢出了，Claude 能写整个工程，GPT 能理解视频。那产品机会到底在哪？
+
+这一期聊了一个核心判断：真正的产品机会不在模型层，在应用层，在那些"脏活累活"里。讲了 6 个具体方向，每个方向配了一个真实的用户场景。最后给了一个"五问检验法"。
+
+【时间戳】
+00:00 开场：产品机会到底在哪
+01:30 牌面：模型从"能聊天"到"能干活"
+03:20 三个认知陷阱
+05:40 诚实的风险提示
+06:30 方向一：专业文档的"认知翻译层"
+07:40 方向二：存量工具的 AI 增强层
+08:40 方向三：垂直行业的 Agent Workflow
+10:00 方向四：数据到决策的"压缩器"
+11:00 方向五：创作者的后期流水线
+12:10 方向六：个人知识的 AI 管理
+13:10 五问检验法
+14:20 收尾</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/01_AI%E4%BA%A7%E5%93%81%E7%9A%84%E5%B0%8F%E5%88%87%E5%8F%A3.mp3" length="5402160" type="audio/mpeg"/>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep01</guid>
+      <pubDate>Mon, 03 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP03 第四发：受众最广 -->
+    <item>
+      <title>EP03 | 普通人怎么上 OpenClaw 的车</title>
+      <itunes:title>普通人怎么上 OpenClaw 的车</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>AI 编程工具浪潮里受益最大的不是程序员，是"有想法但不会写代码"的普通人。</itunes:subtitle>
+      <itunes:summary>所有人都说 AI 编程工具是程序员的事。这是 2025 年最大的误判之一。这一期讲了三个坑和五条上车路径，以及一个"10-3-1 法则"。最后一个暴论：在这波浪潮里，普通人比程序员离机会更近。</itunes:summary>
+      <description>所有人都说 AI 编程工具是"程序员的事"。这是 2025 年最大的误判之一。
+
+这波浪潮里受益最大的不是程序员。真正被改变命运的，是那些"有想法但不会写代码"的普通人。
+
+这一期讲了三个坑、五条路径、一个行动框架。
+
+【时间戳】
+00:00 开场：这不是程序员的事
+01:00 三层变化：从代码补全到自主 Agent
+02:00 小林的故事
+03:00 坑一：上来就学编程
+03:50 坑二：追工具不追场景
+04:30 坑三：想一步到位
+05:10 诚实的风险
+06:00 路径一：解决自己的痛点
+06:40 路径二：把专业知识变成工具
+07:20 路径三：做行业需求的翻译者
+08:10 路径四：用 AI 做交互式内容
+08:50 路径五：加入 AI 原生团队
+09:30 10-3-1 行动法则
+09:50 暴论收尾</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/03_%E6%99%AE%E9%80%9A%E4%BA%BA%E6%80%8E%E4%B9%88%E4%B8%8AOpenClaw%E7%9A%84%E8%BD%A6.mp3" length="3601440" type="audio/mpeg"/>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep03</guid>
+      <pubDate>Sun, 02 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP02 第五发：垂直深度 -->
+    <item>
+      <title>EP02 | 为什么大部分 SaaS 会死</title>
+      <itunes:title>为什么大部分 SaaS 会死</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>SaaS 的底层逻辑正在被改写。这不是寒冬，是灭绝。</itunes:subtitle>
+      <itunes:summary>SaaS 行业的 ARR 安全线正在过期。当 AI 把软件开发成本夷平，SaaS 的核心护城河消失了。这一期聊了三个致命错误和五种能活下来的形态。最后一个暴论：SaaS 这个词本身可能要消亡了。</itunes:summary>
+      <description>SaaS 行业有一句话——"ARR 过了 1000 万就安全了"。这句话正在过期。
+
+这不是周期问题，是结构性问题。当 AI 把软件开发成本从"几十万"变成"一个人两周"，SaaS 最核心的护城河被瞬间夷平了。
+
+【时间戳】
+00:00 开场：ARR 安全线正在过期
+01:10 SaaS 的黄金逻辑和它的前提
+02:10 真实场景：老周为什么不续费了
+03:20 三个致命错误
+04:50 诚实的残酷话
+05:30 存活形态一：数据网络效应型
+06:10 存活形态二：基础设施型
+06:50 存活形态三：合规信任型
+07:20 存活形态四：卖结果不卖工具
+08:00 存活形态五：极致垂直
+08:40 三问自救检验法</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/02_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E9%83%A8%E5%88%86SaaS%E4%BC%9A%E6%AD%BB.mp3" length="3152592" type="audio/mpeg"/>
+      <itunes:duration>00:08:45</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep02</guid>
+      <pubDate>Sat, 01 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+  </channel>
+</rss>
