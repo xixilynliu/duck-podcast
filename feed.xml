@@ -29,6 +29,33 @@
       <link>https://xixilynliu.github.io/duck-podcast</link>
     </image>
 
+    <!-- EP11：谁在AI创意赛道闷声发财 -->
+    <item>
+      <title>EP11 | 谁在 AI 创意赛道闷声发财</title>
+      <itunes:title>谁在 AI 创意赛道闷声发财</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>别盯着 Sora 了，赚钱的是你没听过的那些。</itunes:subtitle>
+      <itunes:summary>Runway 年亏 1.55 亿美元，但一个做电商抠图的法国工具年入 $94M。一个 52 人的 AI PPT 团队年收入一亿美元。一个斯坦福 6 人小队上线一周被学校排队下单。AI 创意赛道真正赚钱的不是通用平台，是你没听过的垂类工具。这一期拆了六个闷声发财的真实案例——VideoTutor、Photoroom、Creatify、Gamma、Spellbook、材料星——总结出"垂类 AI 创意产品赚钱四问"框架。最后一个暴论：AI 创意赛道最被低估的玩家不是 AI 公司，是"不懂 AI 但懂行业"的传统公司。</itunes:summary>
+      <description>Runway 年亏 1.55 亿美元，但有个做电商抠图的法国工具年入 $94M。有个 52 人的 AI PPT 团队干出一亿美元 ARR。有个斯坦福 6 人小队上线一周被学校排队下单。
+
+AI 创意赛道真正赚钱的不是明星产品，是一批你可能没听过的垂类工具。
+
+这一期拆了六个闷声发财的真实案例：VideoTutor（教育视频）、Photoroom（电商抠图，$94M）、Creatify（广告视频，管 $6.5 亿广告费）、Gamma（AI PPT，52 人 $1.02 亿 ARR）、Spellbook（法律合同，4000 律所）、材料星（体制内公文 AI）。
+
+总结了"垂类 AI 创意产品赚钱四问"：被迫创作者？消耗品？够用就行？能批量？
+
+最后一个暴论：AI 创意赛道最被低估的玩家不是 AI 公司，是那些"不懂 AI 但懂行业"的传统公司。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep11.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/11_%E8%B0%81%E5%9C%A8AI%E5%88%9B%E6%84%8F%E8%B5%9B%E9%81%93%E9%97%B7%E5%A3%B0%E5%8F%91%E8%B4%A2.mp3" length="6369264" type="audio/mpeg"/>
+      <itunes:duration>00:17:42</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep11</guid>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
     <!-- EP10：为什么中国AI应用比美国好 -->
     <item>
       <title>EP10 | 为什么中国 AI 应用比美国好</title>
