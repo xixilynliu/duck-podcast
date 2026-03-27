@@ -29,6 +29,215 @@
       <link>https://xixilynliu.github.io/duck-podcast</link>
     </image>
 
+    <!-- EP20：AI内容创作者的生死线 -->
+    <item>
+      <title>EP20 | AI 内容创作者的生死线</title>
+      <itunes:title>AI 内容创作者的生死线</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>可以被 prompt 替代的，都会被替代。</itunes:subtitle>
+      <itunes:summary>当 AI 可以无限量生成内容时，人类创作者的生死线在哪？追踪了五类内容创作者：通稿型写手、模板型设计师、中腰部视频创作者、知识付费讲师、头部创作者。生死线取决于一个变量——"可描述性"。如果你的内容可以用一段 prompt 完整描述，AI 就能替代你。三年后活得最好的创作者不是 AI 效率最高的人，而是 AI 感最低的人。</itunes:summary>
+      <description>当 AI 可以无限量生成内容，内容创作者怎么活？
+
+追踪了五类创作者的真实变化：通稿型写手（团队从 6 人缩到 2 人）、模板型设计师（单量掉 70%）、中腰部视频创作者（播放量降 30%）、知识付费讲师（销量降 40%+）、头部创作者（反而更值钱）。
+
+生死线判断：可以被 prompt 描述 = 可以被 AI 替代。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep20.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/20_AI%E5%86%85%E5%AE%B9%E5%88%9B%E4%BD%9C%E8%80%85%E7%9A%84%E7%94%9F%E6%AD%BB%E7%BA%BF.mp3" length="3691296" type="audio/mpeg"/>
+      <itunes:duration>00:10:15</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep20</guid>
+      <pubDate>Thu, 02 Apr 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP19：开源AI的商业悖论 -->
+    <item>
+      <title>EP19 | 开源 AI 的商业悖论</title>
+      <itunes:title>开源 AI 的商业悖论</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>创造者分文不取，使用者赚得盆满钵满。</itunes:subtitle>
+      <itunes:summary>开源 AI 到底是不是一门好生意？Llama 下载量超十亿次，但 Stability AI 裁员、创始人出走。Mistral 靠半开源估值 $60 亿，Hugging Face 赚生态"水电费"。开源 AI 的根本矛盾是"越成功越难赚钱"。但站在开源肩膀上的 Cursor、Photoroom 反而赚得盆满钵满。模型是 commodity，体验是 differentiator。</itunes:summary>
+      <description>开源 AI 到底是不是一门好生意？
+
+四个故事：Meta 用 Llama 补贴广告业务、Stability AI 开源了水源自己没饭吃、Mistral 半开源估值 $60 亿、Hugging Face 赚生态基础设施税。
+
+核心悖论：越成功越难赚钱。开源 AI 最大的商业受益者不是 AI 公司，是用开源模型重塑业务的传统企业。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep19.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/19_%E5%BC%80%E6%BA%90AI%E7%9A%84%E5%95%86%E4%B8%9A%E6%82%96%E8%AE%BA.mp3" length="3718080" type="audio/mpeg"/>
+      <itunes:duration>00:10:19</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep19</guid>
+      <pubDate>Wed, 01 Apr 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP18：AI让谁先赚到了一百万 -->
+    <item>
+      <title>EP18 | AI 让谁先赚到了一百万</title>
+      <itunes:title>AI 让谁先赚到了一百万</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>最先赚到一百万的不是做 AI 的人，是用 AI 的人。</itunes:subtitle>
+      <itunes:summary>AI 时代谁先赚到了一百万？不是一百万融资，是一百万真金白银。追踪了五类人：卖课的老陈第一个月收入 140 万、做工具集成的小孙 8 个月过百万美元、用 AI 重做婚庆服务的赵姐年入 200 万、做内容矩阵的老刘月入 20 万、做 B 端服务的小程年入 200 万。共同规律：不是做 AI 的人赚钱，是用 AI 的人赚钱。</itunes:summary>
+      <description>AI 时代谁先赚到了一百万？不是融资，是真金白银。
+
+五类最先赚到钱的人：卖课的（窗口期极短）、做工具集成的（行业认知是壁垒）、用 AI 重做传统服务的（AI 是新设计师）、做内容矩阵的（选题感是核心）、做 B 端服务的（月入 15 万+）。
+
+核心规律：AI 不是从零到一的魔法棒，是从一到十的加速器。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep18.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/18_AI%E8%AE%A9%E8%B0%81%E5%85%88%E8%B5%9A%E5%88%B0%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87.mp3" length="3626496" type="audio/mpeg"/>
+      <itunes:duration>00:10:04</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep18</guid>
+      <pubDate>Tue, 31 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP17：你不需要AI战略你需要一个周末 -->
+    <item>
+      <title>EP17 | 你不需要 AI 战略，你需要一个周末</title>
+      <itunes:title>你不需要 AI 战略，你需要一个周末</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>自下而上，不是自上而下。</itunes:subtitle>
+      <itunes:summary>在观察过的几十家企业里，真正用好了 AI 的没有一家靠"AI 战略"做成。三个故事：CEO 花 50 万做的 AI 战略搁置了，运营部小何周末做的小工具 20 多人在用；律所 AI 工作小组三个月搁置了，周律师自己注册 Claude Pro 半年后全所都在用；IT 部门的 AI 平台八个月没上线，采购部老王的 ChatGPT 已经省了一百万。</itunes:summary>
+      <description>AI 战略为什么总失败？三个真实故事告诉你答案。
+
+50 万的咨询方案搁置了，26 岁运营的周末小工具却在公司自发扩散。律所 AI 工作小组搁置了，一个律师的 Claude Pro 账号半年后全所都在用。千万级 AI 平台没上线，$20/月的 ChatGPT 已经省了一百万。
+
+三条建议：报销 AI 订阅费、找到公司里的"小何"、让子弹飞一会儿。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep17.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/17_%E4%BD%A0%E4%B8%8D%E9%9C%80%E8%A6%81AI%E6%88%98%E7%95%A5%E4%BD%A0%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%91%A8%E6%9C%AB.mp3" length="2856096" type="audio/mpeg"/>
+      <itunes:duration>00:07:56</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep17</guid>
+      <pubDate>Mon, 30 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP16：AI投资人踩过的坑 -->
+    <item>
+      <title>EP16 | AI 投资人踩过的坑</title>
+      <itunes:title>AI 投资人踩过的坑</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>每投十个 AI 项目，大概只有一两个能回本。</itunes:subtitle>
+      <itunes:summary>2023-2025 年全球 AI 风投超 3000 亿美元，正回报比例大概 10%-15%。五种翻车模式：模型崇拜（Stability AI 巅峰估值 $10 亿后裁员）、赛道迷信（Jasper 从 $15 亿估值暴跌）、DAU 幻觉（Character.ai 月活千万但不赚钱）、拒绝了赢家（Cursor 被多家 VC 拒过）、太早和太晚（AI 视频公司时间窗口）。</itunes:summary>
+      <description>AI 投资人的翻车现场。3000 亿美元投资里正回报只有 10%-15%。
+
+五种翻车：模型崇拜（技术最强 ≠ 商业最成功）、赛道迷信（赛道热 ≠ 壁垒高）、DAU 幻觉（用户在玩还是在工作？）、拒绝赢家（小工具可能是大生意）、时间窗口（早一年晚一年天壤之别）。
+
+AI 投资最大回报可能来自用 AI 重塑业务的传统公司。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep16.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/16_AI%E6%8A%95%E8%B5%84%E4%BA%BA%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91.mp3" length="3308544" type="audio/mpeg"/>
+      <itunes:duration>00:09:11</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep16</guid>
+      <pubDate>Sun, 29 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP15：为什么大厂的AI产品总是做不好 -->
+    <item>
+      <title>EP15 | 为什么大厂的 AI 产品总是做不好</title>
+      <itunes:title>为什么大厂的 AI 产品总是做不好</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>问题不在人，在系统。</itunes:subtitle>
+      <itunes:summary>AI 赛道里最有钱、人最多的公司做出来的产品往往最让人失望。五个原因：KPI 导向的产品观（极简工具变臃肿平台）、共识文化杀死判断力（外贸工具变成"数字营销解决方案"）、人才密度悖论（100 人讨论不如 1 人直觉）、大厂怕犯错小公司怕不够快、AI 产品为战略做不是为用户做。</itunes:summary>
+      <description>大厂 AI 产品为什么总让人失望？五个结构性原因。
+
+KPI 逼着把简单做复杂、共识文化磨掉锋利判断、人才密度悖论、品牌风险导致过度保守、为战略而非用户做产品。
+
+对比 Cursor（打开按 Tab 就行，年入 20 亿）和 Midjourney（40 人就够）。
+
+大厂最终会赢回来——靠收购，不靠自己做。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep15.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/15_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%8E%82%E7%9A%84AI%E4%BA%A7%E5%93%81%E6%80%BB%E6%98%AF%E5%81%9A%E4%B8%8D%E5%A5%BD.mp3" length="2809152" type="audio/mpeg"/>
+      <itunes:duration>00:07:48</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep15</guid>
+      <pubDate>Sat, 28 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP14：一个人加AI等于一家公司 -->
+    <item>
+      <title>EP14 | 一个人加 AI 等于一家公司</title>
+      <itunes:title>一个人加 AI 等于一家公司</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>门槛低了不代表路好走。</itunes:subtitle>
+      <itunes:summary>一个人不融资不招人用 AI 搭产品能赚多少？Pieter Levels 月入几十万美元、Danny Postma 月入六位数、小陈月入 3 万、小杨不会代码月入 2 万。但也有老郑做了 6 个产品总月入不到 2000 的反面案例。四个关键：找够小的切口、卖给有钱且着急的人、最快验证付费、把 AI 当员工不当产品。</itunes:summary>
+      <description>一个人 + AI = 一家公司？
+
+从 Pieter Levels 月入几十万美元到小杨（不会代码的英语老师）月入 2 万，以及老郑（6 个产品月入不到 2000）的反面案例。
+
+四个关键：刚好够小的切口、有钱且着急的客户、最快验证付费、把 AI 当员工。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep14.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/14_%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8A%A0AI%E7%AD%89%E4%BA%8E%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8.mp3" length="3268800" type="audio/mpeg"/>
+      <itunes:duration>00:09:04</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep14</guid>
+      <pubDate>Fri, 27 Mar 2026 20:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP13：被AI干掉的那些人后来怎么样了 -->
+    <item>
+      <title>EP13 | 被 AI 干掉的那些人，后来怎么样了</title>
+      <itunes:title>被 AI 干掉的那些人，后来怎么样了</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>不是预测题，是事实题。</itunes:subtitle>
+      <itunes:summary>AI 会不会取代人已经不是预测。追踪了五个被影响的群体：插画师小李单量掉 60%、翻译老赵单价打三折、Klarna 用 AI 替代 700 人工客服、写手小周被裁、应届生小吴投了 50 份简历。三条规律：活下来的人从执行者变成判断者、最危险的是被拉低定价、行业在两极分化不是整体替代。</itunes:summary>
+      <description>"AI 会不会取代人"已经不是预测题，是事实题。
+
+追踪五个群体：插画师（单量掉 60%）、翻译（单价打三折）、客服（Klarna 700 人→AI）、写手（团队 8 人裁到 3 人）、初级程序员（岗位停招）。
+
+有人向上走了，更多人向下掉了。三条规律 + 一个不舒服的真相。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep13.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/13_%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86.mp3" length="3744864" type="audio/mpeg"/>
+      <itunes:duration>00:10:24</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep13</guid>
+      <pubDate>Fri, 27 Mar 2026 12:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP12：为什么最好的AI产品都很丑 -->
+    <item>
+      <title>EP12 | 为什么最好的 AI 产品都很丑</title>
+      <itunes:title>为什么最好的 AI 产品都很丑</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>最好的 AI 产品体验是感觉不到产品的存在。</itunes:subtitle>
+      <itunes:summary>AI 领域一个反直觉现象：赚钱最多的产品往往长得最丑。Cursor 界面朴素但年入 20 亿、Midjourney 靠 Discord 机器人起家。为什么丑产品赢了？因为 AI 产品的核心价值是结果不是过程，漂亮设计意味着更多限制，丑产品迭代速度是美产品的十倍。</itunes:summary>
+      <description>AI 领域最反直觉的现象：赚钱最多的产品往往长得最丑。
+
+Cursor 界面朴素年入 20 亿、Midjourney 靠 Discord 起家、Notion AI 只是个输入框。而设计精美的 AI 产品大多活不过一年。
+
+"丑但有效"三原则：输入越简单越好、输出越直接越好、路径越短越好。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep12.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/12_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%A5%BD%E7%9A%84AI%E4%BA%A7%E5%93%81%E9%83%BD%E5%BE%88%E4%B8%91.mp3" length="1657440" type="audio/mpeg"/>
+      <itunes:duration>00:04:36</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep12</guid>
+      <pubDate>Fri, 27 Mar 2026 08:00:00 +0800</pubDate>
+    </item>
+
     <!-- EP11：谁在AI创意赛道闷声发财 -->
     <item>
       <title>EP11 | 谁在 AI 创意赛道闷声发财</title>

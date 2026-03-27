@@ -17,6 +17,15 @@
 
 | # | 标题 | 时长 | 关键词 |
 |---|------|------|--------|
+| EP20 | [AI 内容创作者的生死线](show-notes/ep20.md) | 10 min | 创作者 · 生死线 · prompt 替代性 |
+| EP19 | [开源 AI 的商业悖论](show-notes/ep19.md) | 10 min | 开源 · 商业模式 · Stability AI |
+| EP18 | [AI 让谁先赚到了一百万](show-notes/ep18.md) | 10 min | 赚钱 · 独立开发 · 传统行业 |
+| EP17 | [你不需要 AI 战略，你需要一个周末](show-notes/ep17.md) | 7 min | 企业 · AI 落地 · 自下而上 |
+| EP16 | [AI 投资人踩过的坑](show-notes/ep16.md) | 9 min | 投资 · 翻车 · 判断框架 |
+| EP15 | [为什么大厂的 AI 产品总是做不好](show-notes/ep15.md) | 7 min | 大厂 · 产品 · 组织 |
+| EP14 | [一个人加 AI 等于一家公司](show-notes/ep14.md) | 9 min | 独立开发 · 一人公司 · AI 工具 |
+| EP13 | [被 AI 干掉的那些人，后来怎么样了](show-notes/ep13.md) | 10 min | 职业 · 取代 · 转型 |
+| EP12 | [为什么最好的 AI 产品都很丑](show-notes/ep12.md) | 4 min | 产品设计 · 极简 · 丑但有效 |
 | EP11 | [谁在 AI 创意赛道闷声发财](show-notes/ep11.md) | 17 min | 垂类 AI · 商业化 · 四问框架 |
 | EP10 | 为什么中国 AI 应用比美国好 | 14 min | 中美对比 · 应用层优势 |
 | EP09 | AI 时代，产品经理会消失吗 | 14 min | 职业 · PM 转型 |
