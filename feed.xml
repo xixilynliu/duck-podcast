@@ -29,6 +29,141 @@
       <link>https://xixilynliu.github.io/duck-podcast</link>
     </image>
 
+
+
+    <!-- EP27：小团队别做大平台，去做窄交付 -->
+    <item>
+      <title>EP27 | 小团队别做大平台，去做窄交付</title>
+      <itunes:title>小团队别做大平台，去做窄交付</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>小团队最该学的，不是大平台，而是窄到能立刻交付的产品。</itunes:subtitle>
+      <itunes:summary>这期基于 Startup / OPC 热门产品报告，拆解 Brila、ProdShort、mailX、Flossr，以及 Kilo Code、Bond、Publora、Browse.sh 等样板，提炼小团队可复制的产品结构：可信数据源、内容再分发、免费诊断、强演示、Agent 最后一公里。</itunes:summary>
+      <description>这期基于 Startup / OPC 热门产品报告，拆解 Brila、ProdShort、mailX、Flossr，以及 Kilo Code、Bond、Publora、Browse.sh 等样板，提炼小团队可复制的产品结构：可信数据源、内容再分发、免费诊断、强演示、Agent 最后一公里。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep27.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/27_%E5%B0%8F%E5%9B%A2%E9%98%9F%E5%88%AB%E5%81%9A%E5%A4%A7%E5%B9%B3%E5%8F%B0_%E5%8E%BB%E5%81%9A%E7%AA%84%E4%BA%A4%E4%BB%98.mp3" length="3084573" type="audio/mpeg"/>
+      <itunes:duration>00:08:34</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep27</guid>
+      <pubDate>Wed, 17 Jun 2026 09:00:00 +0800</pubDate>
+    </item>
+
+    <!-- EP26：2026 下半年 AI 招聘风向 -->
+    <item>
+      <title>EP26 | 2026 下半年 AI 招聘风向</title>
+      <itunes:title>2026 下半年 AI 招聘风向</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>有些岗位在膨胀，有些岗位正在安静萎缩。</itunes:subtitle>
+      <itunes:summary>AI 行业从“证明模型能力”切换到“规模化交付”。这期拆解 2026 下半年三个膨胀方向和两个萎缩方向，帮助猎头判断候选人库是否正在贬值。</itunes:summary>
+      <description>AI 行业从“证明模型能力”切换到“规模化交付”。这期拆解 2026 下半年三个膨胀方向和两个萎缩方向，帮助猎头判断候选人库是否正在贬值。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep26.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/26_2026%E4%B8%8B%E5%8D%8A%E5%B9%B4AI%E6%8B%9B%E8%81%98%E9%A3%8E%E5%90%91.mp3" length="2596653" type="audio/mpeg"/>
+      <itunes:duration>00:05:25</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep26</guid>
+      <pubDate>Sat, 13 Jun 2026 08:25:00 +0800</pubDate>
+    </item>
+
+    <!-- EP25：AI 人才的薪资真相和跳槽心理 -->
+    <item>
+      <title>EP25 | AI 人才的薪资真相和跳槽心理</title>
+      <itunes:title>AI 人才的薪资真相和跳槽心理</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>这批人不是只找更多钱，他们还在找更值得相信的事。</itunes:subtitle>
+      <itunes:summary>AI 人才的跳槽逻辑不同于传统互联网：钱、title、赛道之外，多了一个“信仰税”。这期拆解 AI 人才薪资结构、跳槽心理，以及猎头该如何沟通。</itunes:summary>
+      <description>AI 人才的跳槽逻辑不同于传统互联网：钱、title、赛道之外，多了一个“信仰税”。这期拆解 AI 人才薪资结构、跳槽心理，以及猎头该如何沟通。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep25.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/25_AI%E4%BA%BA%E6%89%8D%E7%9A%84%E8%96%AA%E8%B5%84%E7%9C%9F%E7%9B%B8%E5%92%8C%E8%B7%B3%E6%A7%BD%E5%BF%83%E7%90%86.mp3" length="2424621" type="audio/mpeg"/>
+      <itunes:duration>00:05:03</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep25</guid>
+      <pubDate>Sat, 13 Jun 2026 08:20:00 +0800</pubDate>
+    </item>
+
+    <!-- EP24：怎么在 30 分钟内判断一个人有没有 AI sense -->
+    <item>
+      <title>EP24 | 怎么在 30 分钟内判断一个人有没有 AI sense</title>
+      <itunes:title>怎么在 30 分钟内判断一个人有没有 AI sense</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>AI sense 不在简历里，藏在一个人和 AI 共处的方式里。</itunes:subtitle>
+      <itunes:summary>简历上写大模型经验不等于真的懂 AI。这期给出五个递进测试：场景拆解、prompt 能力、风险意识、成本思维、边界认知，30 分钟判断一个人有没有 AI sense。</itunes:summary>
+      <description>简历上写大模型经验不等于真的懂 AI。这期给出五个递进测试：场景拆解、prompt 能力、风险意识、成本思维、边界认知，30 分钟判断一个人有没有 AI sense。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep24.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/24_%E6%80%8E%E4%B9%88%E5%9C%A830%E5%88%86%E9%92%9F%E5%86%85%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%89%E6%B2%A1%E6%9C%89AI_sense.mp3" length="2174637" type="audio/mpeg"/>
+      <itunes:duration>00:04:32</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep24</guid>
+      <pubDate>Sat, 13 Jun 2026 08:15:00 +0800</pubDate>
+    </item>
+
+    <!-- EP23：AI 公司真正在招的五种人 -->
+    <item>
+      <title>EP23 | AI 公司真正在招的五种人</title>
+      <itunes:title>AI 公司真正在招的五种人</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>JD 经常是错的，真正需求要翻译成人话。</itunes:subtitle>
+      <itunes:summary>AI 公司的 JD 往往由 HR 抄竞品写出来，但真实岗位需求藏在产品、评估、交付、合规等环节。这期把 JD 翻译成人话，拆出 AI 公司实际需要的五种人。</itunes:summary>
+      <description>AI 公司的 JD 往往由 HR 抄竞品写出来，但真实岗位需求藏在产品、评估、交付、合规等环节。这期把 JD 翻译成人话，拆出 AI 公司实际需要的五种人。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep23.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/23_AI%E5%85%AC%E5%8F%B8%E7%9C%9F%E6%AD%A3%E5%9C%A8%E6%8B%9B%E7%9A%84%E4%BA%94%E7%A7%8D%E4%BA%BA.mp3" length="2339565" type="audio/mpeg"/>
+      <itunes:duration>00:04:52</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep23</guid>
+      <pubDate>Sat, 13 Jun 2026 08:10:00 +0800</pubDate>
+    </item>
+
+    <!-- EP22：互联网裁员潮里藏着哪些 AI 金矿 -->
+    <item>
+      <title>EP22 | 互联网裁员潮里藏着哪些 AI 金矿</title>
+      <itunes:title>互联网裁员潮里藏着哪些 AI 金矿</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>最值钱的匹配关系，不在 JD 里。</itunes:subtitle>
+      <itunes:summary>AI 公司真正缺的未必是算法工程师，而是懂业务流程、标注数据、客户成功和复杂行业场景的人。互联网裁员潮里，藏着猎头容易忽略的三类 AI 金矿。</itunes:summary>
+      <description>AI 公司真正缺的未必是算法工程师，而是懂业务流程、标注数据、客户成功和复杂行业场景的人。互联网裁员潮里，藏着猎头容易忽略的三类 AI 金矿。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep22.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/22_%E4%BA%92%E8%81%94%E7%BD%91%E8%A3%81%E5%91%98%E6%BD%AE%E9%87%8C%E8%97%8F%E7%9D%80%E5%93%AA%E4%BA%9BAI%E9%87%91%E7%9F%BF.mp3" length="1740909" type="audio/mpeg"/>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep22</guid>
+      <pubDate>Sat, 13 Jun 2026 08:05:00 +0800</pubDate>
+    </item>
+
+    <!-- EP21：顶层共识：六位掌门人在怕同一件事 -->
+    <item>
+      <title>EP21 | 顶层共识：六位掌门人在怕同一件事</title>
+      <itunes:title>顶层共识：六位掌门人在怕同一件事</itunes:title>
+      <itunes:author>达克</itunes:author>
+      <itunes:subtitle>他们说得越像，分歧越大。真正的信息藏在没说出口的地方。</itunes:subtitle>
+      <itunes:summary>把六位 AI 行业掌门人的公开发言拼在一起：Altman、黄仁勋、Hassabis、Amodei、Ilya、李彦宏。他们如何判断 AGI、押注什么方向、最怕什么、又有哪些话术需要过滤。</itunes:summary>
+      <description>把六位 AI 行业掌门人的公开发言拼在一起：Altman、黄仁勋、Hassabis、Amodei、Ilya、李彦宏。他们如何判断 AGI、押注什么方向、最怕什么、又有哪些话术需要过滤。
+
+完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep21.md</description>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/21_%E9%A1%B6%E5%B1%82%E5%85%B1%E8%AF%86_%E5%85%AD%E4%BD%8D%E6%8E%8C%E9%97%A8%E4%BA%BA%E5%9C%A8%E6%80%95%E5%90%8C%E4%B8%80%E4%BB%B6%E4%BA%8B.mp3" length="5436717" type="audio/mpeg"/>
+      <itunes:duration>00:11:20</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">duck-podcast-ep21</guid>
+      <pubDate>Sat, 13 Jun 2026 08:00:00 +0800</pubDate>
+    </item>
+
     <!-- EP20：AI内容创作者的生死线 -->
     <item>
       <title>EP20 | AI 内容创作者的生死线</title>
@@ -43,8 +178,8 @@
 生死线判断：可以被 prompt 描述 = 可以被 AI 替代。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep20.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/20_AI%E5%86%85%E5%AE%B9%E5%88%9B%E4%BD%9C%E8%80%85%E7%9A%84%E7%94%9F%E6%AD%BB%E7%BA%BF.mp3" length="3691296" type="audio/mpeg"/>
-      <itunes:duration>00:10:15</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/20_AI%E5%86%85%E5%AE%B9%E5%88%9B%E4%BD%9C%E8%80%85%E7%9A%84%E7%94%9F%E6%AD%BB%E7%BA%BF.mp3" length="4303917" type="audio/mpeg"/>
+      <itunes:duration>00:08:58</itunes:duration>
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -66,8 +201,8 @@
 核心悖论：越成功越难赚钱。开源 AI 最大的商业受益者不是 AI 公司，是用开源模型重塑业务的传统企业。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep19.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/19_%E5%BC%80%E6%BA%90AI%E7%9A%84%E5%95%86%E4%B8%9A%E6%82%96%E8%AE%BA.mp3" length="3718080" type="audio/mpeg"/>
-      <itunes:duration>00:10:19</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/19_%E5%BC%80%E6%BA%90AI%E7%9A%84%E5%95%86%E4%B8%9A%E6%82%96%E8%AE%BA.mp3" length="4216557" type="audio/mpeg"/>
+      <itunes:duration>00:08:47</itunes:duration>
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -89,8 +224,8 @@
 核心规律：AI 不是从零到一的魔法棒，是从一到十的加速器。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep18.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/18_AI%E8%AE%A9%E8%B0%81%E5%85%88%E8%B5%9A%E5%88%B0%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87.mp3" length="3626496" type="audio/mpeg"/>
-      <itunes:duration>00:10:04</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/18_AI%E8%AE%A9%E8%B0%81%E5%85%88%E8%B5%9A%E5%88%B0%E4%BA%86%E4%B8%80%E7%99%BE%E4%B8%87.mp3" length="4084461" type="audio/mpeg"/>
+      <itunes:duration>00:08:31</itunes:duration>
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -112,8 +247,8 @@
 三条建议：报销 AI 订阅费、找到公司里的"小何"、让子弹飞一会儿。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep17.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/17_%E4%BD%A0%E4%B8%8D%E9%9C%80%E8%A6%81AI%E6%88%98%E7%95%A5%E4%BD%A0%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%91%A8%E6%9C%AB.mp3" length="2856096" type="audio/mpeg"/>
-      <itunes:duration>00:07:56</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/17_%E4%BD%A0%E4%B8%8D%E9%9C%80%E8%A6%81AI%E6%88%98%E7%95%A5%E4%BD%A0%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%91%A8%E6%9C%AB.mp3" length="3268653" type="audio/mpeg"/>
+      <itunes:duration>00:06:49</itunes:duration>
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -135,8 +270,8 @@
 AI 投资最大回报可能来自用 AI 重塑业务的传统公司。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep16.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/16_AI%E6%8A%95%E8%B5%84%E4%BA%BA%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91.mp3" length="3308544" type="audio/mpeg"/>
-      <itunes:duration>00:09:11</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/16_AI%E6%8A%95%E8%B5%84%E4%BA%BA%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91.mp3" length="3786669" type="audio/mpeg"/>
+      <itunes:duration>00:07:53</itunes:duration>
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -160,8 +295,8 @@ KPI 逼着把简单做复杂、共识文化磨掉锋利判断、人才密度悖�
 大厂最终会赢回来——靠收购，不靠自己做。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep15.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/15_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%8E%82%E7%9A%84AI%E4%BA%A7%E5%93%81%E6%80%BB%E6%98%AF%E5%81%9A%E4%B8%8D%E5%A5%BD.mp3" length="2809152" type="audio/mpeg"/>
-      <itunes:duration>00:07:48</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/15_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%8E%82%E7%9A%84AI%E4%BA%A7%E5%93%81%E6%80%BB%E6%98%AF%E5%81%9A%E4%B8%8D%E5%A5%BD.mp3" length="3158253" type="audio/mpeg"/>
+      <itunes:duration>00:06:35</itunes:duration>
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -183,8 +318,8 @@ KPI 逼着把简单做复杂、共识文化磨掉锋利判断、人才密度悖�
 四个关键：刚好够小的切口、有钱且着急的客户、最快验证付费、把 AI 当员工。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep14.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/14_%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8A%A0AI%E7%AD%89%E4%BA%8E%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8.mp3" length="3268800" type="audio/mpeg"/>
-      <itunes:duration>00:09:04</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/14_%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8A%A0AI%E7%AD%89%E4%BA%8E%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8.mp3" length="3737709" type="audio/mpeg"/>
+      <itunes:duration>00:07:47</itunes:duration>
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -206,8 +341,8 @@ KPI 逼着把简单做复杂、共识文化磨掉锋利判断、人才密度悖�
 有人向上走了，更多人向下掉了。三条规律 + 一个不舒服的真相。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep13.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/13_%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86.mp3" length="3744864" type="audio/mpeg"/>
-      <itunes:duration>00:10:24</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/13_%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86.mp3" length="4300653" type="audio/mpeg"/>
+      <itunes:duration>00:08:58</itunes:duration>
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -229,8 +364,8 @@ Cursor 界面朴素年入 20 亿、Midjourney 靠 Discord 起家、Notion AI 只
 "丑但有效"三原则：输入越简单越好、输出越直接越好、路径越短越好。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep12.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/12_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%A5%BD%E7%9A%84AI%E4%BA%A7%E5%93%81%E9%83%BD%E5%BE%88%E4%B8%91.mp3" length="1657440" type="audio/mpeg"/>
-      <itunes:duration>00:04:36</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/12_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%A5%BD%E7%9A%84AI%E4%BA%A7%E5%93%81%E9%83%BD%E5%BE%88%E4%B8%91.mp3" length="3690093" type="audio/mpeg"/>
+      <itunes:duration>00:07:41</itunes:duration>
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -256,8 +391,8 @@ AI 创意赛道真正赚钱的不是明星产品，是一批你可能没听过�
 最后一个暴论：AI 创意赛道最被低估的玩家不是 AI 公司，是那些"不懂 AI 但懂行业"的传统公司。
 
 完整文字稿：https://xixilynliu.github.io/duck-podcast/show-notes/ep11.md</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/11_%E8%B0%81%E5%9C%A8AI%E5%88%9B%E6%84%8F%E8%B5%9B%E9%81%93%E9%97%B7%E5%A3%B0%E5%8F%91%E8%B4%A2.mp3" length="6369264" type="audio/mpeg"/>
-      <itunes:duration>00:17:42</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/11_%E8%B0%81%E5%9C%A8AI%E5%88%9B%E6%84%8F%E8%B5%9B%E9%81%93%E9%97%B7%E5%A3%B0%E5%8F%91%E8%B4%A2.mp3" length="7438893" type="audio/mpeg"/>
+      <itunes:duration>00:15:30</itunes:duration>
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -279,8 +414,8 @@ AI 创意赛道真正赚钱的不是明星产品，是一批你可能没听过�
 同时诚实面对短板：基础创新不足、出海障碍、生态碎片化、人才流失。
 
 最后一个反直觉观点：中国 AI 的真正风险不是技术落后，是"太会做应用"导致基础研究投入不足。</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/10_%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BDAI%E5%BA%94%E7%94%A8%E6%AF%94%E7%BE%8E%E5%9B%BD%E5%A5%BD.mp3" length="5314032" type="audio/mpeg"/>
-      <itunes:duration>00:14:46</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/10_%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BDAI%E5%BA%94%E7%94%A8%E6%AF%94%E7%BE%8E%E5%9B%BD%E5%A5%BD.mp3" length="6092781" type="audio/mpeg"/>
+      <itunes:duration>00:12:42</itunes:duration>
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -302,8 +437,8 @@ AI 吃掉了 PM 70%-80% 的日常工作：需求文档、竞品分析、数据�
 这一期拆解了会消失的三类 PM 和不会消失的三类 PM，每类配了具体的人物场景。
 
 最后一个判断：未来的 PM 不是做产品的人，是定义产品的人。</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/09_AI%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%BC%9A%E6%B6%88%E5%A4%B1%E5%90%97.mp3" length="5318640" type="audio/mpeg"/>
-      <itunes:duration>00:14:46</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/09_AI%E6%97%B6%E4%BB%A3%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%BC%9A%E6%B6%88%E5%A4%B1%E5%90%97.mp3" length="6365805" type="audio/mpeg"/>
+      <itunes:duration>00:13:16</itunes:duration>
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -323,8 +458,8 @@ AI 吃掉了 PM 70%-80% 的日常工作：需求文档、竞品分析、数据�
 GPT-4 级能力的 API 成本两年降了 99%。这一期分析了五类裸泳者和三类受益者，每类配了具体的公司和个人故事。
 
 最后一个反直觉判断：大模型降价的真正终局是——AI 变得无聊了。</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/08_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%99%8D%E4%BB%B7%E4%B9%8B%E5%90%8E%E8%B0%81%E5%9C%A8%E8%A3%B8%E6%B3%B3.mp3" length="4530384" type="audio/mpeg"/>
-      <itunes:duration>00:12:35</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/08_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%99%8D%E4%BB%B7%E4%B9%8B%E5%90%8E%E8%B0%81%E5%9C%A8%E8%A3%B8%E6%B3%B3.mp3" length="5335917" type="audio/mpeg"/>
+      <itunes:duration>00:11:07</itunes:duration>
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -346,8 +481,8 @@ GPT-4 级能力的 API 成本两年降了 99%。这一期分析了五类裸泳�
 这一期拆解了五种死法：API 套壳死、Demo 驱动死、技术信仰死、烧钱换量死、大厂阴影死。每种配了一个创业团队的完整故事。
 
 最后一个反直觉观察：活下来的 AI 公司通常不酷、创始人不是纯技术背景、从第一天就在收钱。</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/07_AI%E5%88%9B%E4%B8%9A%E7%9A%84%E4%BA%94%E7%A7%8D%E6%AD%BB%E6%B3%95.mp3" length="4954608" type="audio/mpeg"/>
-      <itunes:duration>00:13:46</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/07_AI%E5%88%9B%E4%B8%9A%E7%9A%84%E4%BA%94%E7%A7%8D%E6%AD%BB%E6%B3%95.mp3" length="5698605" type="audio/mpeg"/>
+      <itunes:duration>00:11:52</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -369,8 +504,8 @@ GPT-4 级能力的 API 成本两年降了 99%。这一期分析了五类裸泳�
 这一期拆了四个常见的坑和五个有留存的产品方向，每个方向配了具体的用户场景。
 
 最后一个观点：用户不会因为你很厉害而留下来，用户只会因为离不开而留下来。</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/06_%E4%BD%A0%E7%9A%84AI%E4%BA%A7%E5%93%81%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E4%BA%BA%E7%94%A8.mp3" length="5000544" type="audio/mpeg"/>
-      <itunes:duration>00:13:53</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/06_%E4%BD%A0%E7%9A%84AI%E4%BA%A7%E5%93%81%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E4%BA%BA%E7%94%A8.mp3" length="5892717" type="audio/mpeg"/>
+      <itunes:duration>00:12:17</itunes:duration>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -406,8 +541,8 @@ GPT-4 级能力的 API 成本两年降了 99%。这一期分析了五类裸泳�
 09:40 第9件：Scaling Law 在撞墙
 10:30 第10件：你的 AI 焦虑被操控了
 11:30 总结</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/04_AI%E7%88%86%E7%81%AB2026%E5%B9%B4%E5%8F%8D%E7%9B%B4%E8%A7%8910%E4%BB%B6%E4%BA%8B.mp3" length="4369824" type="audio/mpeg"/>
-      <itunes:duration>00:12:08</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/04_AI%E7%88%86%E7%81%AB2026%E5%B9%B4%E5%8F%8D%E7%9B%B4%E8%A7%8910%E4%BB%B6%E4%BA%8B.mp3" length="4876077" type="audio/mpeg"/>
+      <itunes:duration>00:10:09</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -442,8 +577,8 @@ GPT-4 级能力的 API 成本两年降了 99%。这一期分析了五类裸泳�
 09:40 公道话：绊脚石也有他们的道理
 10:20 五步排雷检查清单
 11:10 反直觉收尾</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/05_%E5%85%AC%E5%8F%B8%E9%87%8C%E8%B0%81%E6%98%AFAI%E7%9A%84%E7%BB%8A%E8%84%9A%E7%9F%B3.mp3" length="4299984" type="audio/mpeg"/>
-      <itunes:duration>00:11:56</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/05_%E5%85%AC%E5%8F%B8%E9%87%8C%E8%B0%81%E6%98%AFAI%E7%9A%84%E7%BB%8A%E8%84%9A%E7%9F%B3.mp3" length="4876077" type="audio/mpeg"/>
+      <itunes:duration>00:10:09</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -475,8 +610,8 @@ GPT-4 级能力的 API 成本两年降了 99%。这一期分析了五类裸泳�
 12:10 方向六：个人知识的 AI 管理
 13:10 五问检验法
 14:20 收尾</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/01_AI%E4%BA%A7%E5%93%81%E7%9A%84%E5%B0%8F%E5%88%87%E5%8F%A3.mp3" length="5402160" type="audio/mpeg"/>
-      <itunes:duration>00:15:00</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/01_AI%E4%BA%A7%E5%93%81%E7%9A%84%E5%B0%8F%E5%88%87%E5%8F%A3.mp3" length="4070829" type="audio/mpeg"/>
+      <itunes:duration>00:08:29</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -512,8 +647,8 @@ GPT-4 级能力的 API 成本两年降了 99%。这一期分析了五类裸泳�
 08:50 路径五：加入 AI 原生团队
 09:30 10-3-1 行动法则
 09:50 暴论收尾</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/03_%E6%99%AE%E9%80%9A%E4%BA%BA%E6%80%8E%E4%B9%88%E4%B8%8AOpenClaw%E7%9A%84%E8%BD%A6.mp3" length="3601440" type="audio/mpeg"/>
-      <itunes:duration>00:10:00</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/03_%E6%99%AE%E9%80%9A%E4%BA%BA%E6%80%8E%E4%B9%88%E4%B8%8AOpenClaw%E7%9A%84%E8%BD%A6.mp3" length="4070829" type="audio/mpeg"/>
+      <itunes:duration>00:08:29</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -544,8 +679,8 @@ GPT-4 级能力的 API 成本两年降了 99%。这一期分析了五类裸泳�
 07:20 存活形态四：卖结果不卖工具
 08:00 存活形态五：极致垂直
 08:40 三问自救检验法</description>
-      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/02_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E9%83%A8%E5%88%86SaaS%E4%BC%9A%E6%AD%BB.mp3" length="3152592" type="audio/mpeg"/>
-      <itunes:duration>00:08:45</itunes:duration>
+      <enclosure url="https://xixilynliu.github.io/duck-podcast/episodes/02_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E9%83%A8%E5%88%86SaaS%E4%BC%9A%E6%AD%BB.mp3" length="3610029" type="audio/mpeg"/>
+      <itunes:duration>00:07:31</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
